@@ -1,5 +1,4 @@
 {
-  "homepage": "https://vatsalborda04.github.io/Register_Form",
   "name": "apireact",
   "version": "0.1.0",
   "private": true,
@@ -18,8 +17,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy" : "npm run build",
-    "deploy" : "main -d bulid",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
